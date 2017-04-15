@@ -1,0 +1,4 @@
+Call: 3ks_gcode.py s<SingleCurveCode> d<DoubleCurveCode> <OutputFile>
+Example: 3ks_gcode.py s315973 d573135 H006_sample.ngc
+
+Milling configuation (e.g. mill diameter, z heights, ...) configurated in source ilfe
